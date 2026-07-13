@@ -4,7 +4,7 @@ import java.util.*;
 
 
 public class Main {
-    // Shared list to store student objects
+   
     private static ArrayList<Student> studentList = new ArrayList<>();
     private static Scanner scanner = new Scanner(System.in);
 
